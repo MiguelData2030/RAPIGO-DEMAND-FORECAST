@@ -28,7 +28,7 @@ Explorar el dataset sintético de pedidos en Bogotá (1 mes, ~400k pedidos) para
 ## 3. Visualizaciones
 
 📈 **Pedidos diarios (serie temporal)**  
-![Pedidos diarios](/img/Pedidos_por_dia.png)
+![Pedidos diarios](img/Pedidos_por_dia.png)
 ⏰ **Pedidos por hora del día**  
 ![Pedidos por hora](img/pedidosX_hora.png)
 
